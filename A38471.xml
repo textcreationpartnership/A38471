@@ -1,0 +1,1139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The English military discipline exactly described by copper cutts, in forty eight postures of the musquet and thirty fix of the pike, with instructions for all young souldiers, and such who are disposed to learn and have knowledge of the military discipline, wherein, are set down the conditions and qualities which are required in every several officer of a private company, and the maner of drawing up of companies and placing them in battail rank.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38471</idno>
+            <idno type="STC">Wing E3105</idno>
+            <idno type="STC">ESTC R17166</idno>
+            <idno type="EEBO-CITATION">12256236</idno>
+            <idno type="OCLC">ocm 12256236</idno>
+            <idno type="VID">57522</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38471)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57522)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 815:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The English military discipline exactly described by copper cutts, in forty eight postures of the musquet and thirty fix of the pike, with instructions for all young souldiers, and such who are disposed to learn and have knowledge of the military discipline, wherein, are set down the conditions and qualities which are required in every several officer of a private company, and the maner of drawing up of companies and placing them in battail rank.</title>
+               </titleStmt>
+               <extent>23, [42] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Sold by John Overton,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Soldiers.</term>
+               <term>Drill and minor tactics.</term>
+               <term>Military art and science --  Soldiers' handbooks --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57522:1"/>
+            <pb facs="tcp:57522:1" rendition="simple:additions"/>
+            <p>THE ENGLISH Military Diſcipline. Exactly deſcribed By Copper Cutts, in Forty eight Poſtures of the Muſquet and Thirty ſix of the Pike. WITH Inſtructions for all young Souldiers, and ſuch who are diſpoſed to learn and have knowledge of the Military Diſcipline. <hi>WHEREIN,</hi> Are ſet down the Conditions and Qualities which are required in every ſeveral Officer of a private Company, and the maner of drawing up of Companies and placing them in Battail Rank.</p>
+            <p>Sold by <hi>John Overton</hi> at the <hi>White Horſe</hi> without <hi>Newgate,</hi> where you may have the beſt choice of all ſorts of Maps, Copy Books French and Dutch Prints. Bookes of Flowers, Beaſts Birds, Drawing Books. ☞ Alſo ſeveral New MAPS for the diſcovering the motion of the ARMIES, &amp;c. 1672.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:57522:2"/>
+            <pb n="3" facs="tcp:57522:2"/>
+            <head>Divers uſeful Inſtruſtions for all young Souldiers and ſuch who are diſpoſed to learn and have knowledge, of the <hi>Engliſh</hi> Military Diſcipline.</head>
+            <p>THe firſt principal in Military Inſtructions, bindeth every one that minds to practiſe in Military Diſcipline, after the handling of his Armes, to underſtand the ſeveral ſounds of the Drum, without the which no Souldier is able to know his Commanders pleaſure, when to March, Charge, or make a Retreat, <hi>&amp;c.</hi> For when the Commanders voice can not extend to the hearing of the Company, the Drum de<g ref="char:EOLhyphen"/>nounces and expreſſeth the ſame.</p>
+            <list>
+               <head>The ſounds eſpecially to be learned, are theſe.</head>
+               <item>1. <hi>A Call.</hi>
+               </item>
+               <item>2. <hi>A March.</hi>
+               </item>
+               <item>3. <hi>A Troope.</hi>
+               </item>
+               <item>4. <hi>A Charge.</hi>
+               </item>
+               <item>5. <hi>A Retreat.</hi>
+               </item>
+               <item>6. <hi>A Battalia.</hi>
+               </item>
+               <item>7. <hi>A Battery.</hi>
+               </item>
+               <item>8. <hi>A Releif.</hi>
+               </item>
+            </list>
+            <p>The ſecond principal [after the learning of his Armes] is to know how to offend and defend, the readieſt and eaſieſt way with skill.</p>
+            <p>The 3. Principal to be learned, is the diſtance and order of Standing and Marching, that is to be obſerved between Files and Ranks, which is a ſpecial point of Diſcipline, ſome make 5. Sorts, but I content my ſelf only three moſt in uſe.</p>
+            <list>
+               <head>Diſtance in Files.</head>
+               <item>
+                  <hi>Order is three foot.</hi>
+               </item>
+               <item>
+                  <hi>Open order is ſix foot.</hi>
+               </item>
+               <item>
+                  <hi>Cloſe order is a foot and halfe.</hi>
+               </item>
+            </list>
+            <list>
+               <head> Diſtance in Ranks.</head>
+               <item>
+                  <hi>Order is ſix foot.</hi>
+               </item>
+               <item>
+                  <hi>Open order is twelve foot.</hi>
+               </item>
+               <item>
+                  <hi>Cloſe order is three foot.</hi>
+               </item>
+            </list>
+            <p>The learning of this principal is of great uſe, for if order and perfect form be not obſerved, it can be termed no other thing but a diſordered Company. In the next place let the Souldier know how to diſtinguiſh betwixt every ſeveral place in the Company, as followeth.</p>
+            <p>
+               <hi>The Front.</hi>
+            </p>
+            <p>The Front is alwaies where the faces of the Company are directed all one way.</p>
+            <p>
+               <hi>The Reare.</hi>
+            </p>
+            <p>The Reare is ever where the backs of the whole Company are turned.</p>
+            <pb n="4" facs="tcp:57522:3"/>
+            <p>
+               <hi>A File.</hi>
+            </p>
+            <p>A File is a ſequence of men ſtanding one behind another, back to bel<g ref="char:EOLhyphen"/>ly, and conſiſteth commonly, of 10, or 8. or ſomtimes 6. depth.</p>
+            <p>
+               <hi>A Ranke.</hi>
+            </p>
+            <p>A Rank is a row of men ſtanding one by another, Shoulder to Shoul<g ref="char:EOLhyphen"/>der, their faces being directed all one way.</p>
+            <p>
+               <hi>Leaders of Foyles.</hi>
+            </p>
+            <p>Leaders of Foyles are thoſe that are in the firſt Rank; every one in the ſame rank, is a Leader of a File,</p>
+            <p>
+               <hi>Bringers up.</hi>
+            </p>
+            <p>Bringers up, are thoſe that are in the laſt rank; and they are every one bringers up of a File.</p>
+            <p>
+               <hi>Reare diviſion, half Files, or ſixth rank, all theſe three names may be given to this diviſion.</hi>
+            </p>
+            <p>The Leaders of the Reare diviſion are the ſixt rank, if there be ten depth, if but 8. the 5. rank. Alſo this diviſion is called by ſome, mid<g ref="char:EOLhyphen"/>dle men, but the moſt ſure being, what depth they will, Reare diviſion ſeperates beſt, and is ſoon known.</p>
+            <p>
+               <hi>The Wing.</hi>
+            </p>
+            <p>The Wing is the ſide of the Company, from the Front, to the Reare, the right ſide being called the right Wing, and the left ſide the left Wing.</p>
+            <p>
+               <hi>Hereafter followeth certain ge<g ref="char:EOLhyphen"/>neral obſervations.</hi>
+            </p>
+            <p>Let every Souldier know that in marching they are to follow their Leaders in Files, as alſo keep even with their right hand man, which is their Leader in Rank, the like muſt be done upon a ſtand to ſtand right after their Leaders in File, and rank even with their right hand man in rank, obſerving true diſtance and form according unto ſuch order as ſhall be enjoyned by the Commander. Let the Pikeman know that in a march he muſt alwaies ſhoulder his Pike, either juſt or ſinking, as the word ſhall be given; and coming thorow any port or gate, he is to port his Pike, upon a Troup he muſt carry his Pike mounted, and upon a ſtand let him alwaies ſet down or order his Pike, unleſs he have command to the con<g ref="char:EOLhyphen"/>trary. Let the Pikeman further know and obſerve that in charging (being ten depth) half the ranks or front diviſion are to charge or preſent their Pikes, the other half or reare diviſion are to carry their Pikes mounted or ported over the heads of their leaders, that they be no hinderance to them, either in charging or in retiring.</p>
+            <pb n="5" facs="tcp:57522:3"/>
+            <p>Obſerve likewayes that when they preſent ſtanding, to fall back with the right foot, and marching, to preſent the left foot being ſtooped foreward.</p>
+            <p>The Muſquetier muſt obſerve upon a march to ſhoulder his Muſquet, and carry the Reſt in his right hand, except he prepare to give fire, then is he bound to carry his reſt in his left hand: the like alſo in a troupe, but in a ſtand let him ever reſt his Muſquet, except he have command to the contrary. In exerciſing of the Company, firſt cauſe the body to ſtand in good order, and being in ſuch order as they are enjoyned to, let them face to the right or left hand, and ſo look upon then round, ſee<g ref="char:EOLhyphen"/>ing them ſtand right in Files, and Ranks.</p>
+            <p>Ten ranks, and five files, face them to either hand, and then there is as many files, as ranks were before, being become ranks, and the ranks being converted into files. When you double your files to any hand, by doubling of ranks to the contrary hand, they are brought to their firſt forme; likewayes having doubled ranks to any hand, by dou<g ref="char:EOLhyphen"/>bling of files to the contrary hand, they become to their firſt order, or as they were.</p>
+            <p>Now the next for the fift principall, ſhall be expreſſed the moſt uſu<g ref="char:EOLhyphen"/>all words of command, eſpecially uſed in the exerciſing of a Company, with the reaſons thereof, which every Souldier muſt be well acquainted withall, otherwayes they can never riſe unto any preferment.</p>
+            <p>
+               <hi>The words of Command following.</hi>
+            </p>
+            <p n="1">1. <hi>Files double to the right.</hi>
+            </p>
+            <p>Doubling of files to the right is after this manner, the utmoſt mov<g ref="char:EOLhyphen"/>eth not, but ſtandeth faſt: the next unto the right, moveth into the right, ſo that of ten in deep, it is now become twenty, accordingly every ſe<g ref="char:EOLhyphen"/>cond moveth into their next on their right hand.</p>
+            <p n="2">2. <hi>Double to the left.</hi>
+            </p>
+            <p>The left muſt ſtand faſt, and every ſecond file is to move into their next on their left hand.</p>
+            <p>
+               <hi>The Uſe.</hi>
+            </p>
+            <p>Thus you ſtrengthen your Wings.</p>
+            <p n="3">3. <hi>Ranks double to the right.</hi>
+            </p>
+            <p>In doubling of ranks, you muſt know the formoſt rank ſtands faſt, the ſecond moveth into the firſt, to the right hand (for that is commonly firſt done in exerciſing) the third rank ſtandeth faſt, the fourth moveth into the third, and ſo of the reſt, every ſecond rank moveth into the
+<pb n="6" facs="tcp:57522:4"/>rank before them, that of five in rank, they are doubled and become ten in rank.</p>
+            <p n="4">4. <hi>Ranks double to the left.</hi>
+            </p>
+            <p>Doubling of ranks to the left, every ſecond rank moveth, paſſing up by their leaders left hand, and ſo ſtand in the rank with them, beginning at the front firſt, and ſo take it one from another. Note that in dou<g ref="char:EOLhyphen"/>bling to any hand, in going to your firſt order, that you fall out with the contrary foot.</p>
+            <p>
+               <hi>The uſe.</hi>
+            </p>
+            <p>Thus you ſtrengthen your Front.</p>
+            <p n="5">5. <hi>Files cloſe.</hi>
+            </p>
+            <p>Being in open order, the word is Files cloſe without naming to any hand, which is thus performed, the two middle leaders cloſe firſt, the one to the right, the other to the left, till they are in the diſtance com<g ref="char:EOLhyphen"/>manded, the reſt of the company to take their diſtance from them, on either Wing cloſing to the middle leaders.</p>
+            <p n="6">6. <hi>Files cloſe to the right.</hi>
+            </p>
+            <p>The right hand file moveth not but ſtandeth faſt, all the reſt cloſe to the, right file, taking their diſtance one from another, from the right hand.</p>
+            <p n="7">7. <hi>Files cloſe to the left.</hi>
+            </p>
+            <p>Files cloſing to the left, then the left file ſtands faſt, the reſt of the files cloſe, and take their diſtance from the left hand.</p>
+            <p>
+               <hi>There is great uſe in cloſing of Files for many cauſes.</hi>
+            </p>
+            <p n="8">8. <hi>Files cloſe to the right and left by diviſion.</hi>
+            </p>
+            <p>Files cloſing to the right and left by diviſion, the one half of the Files cloſe to the right files, the other half to the left files, leaving a ſpace be<g ref="char:EOLhyphen"/>tween, which is done upon ſome ſpecial uſe, beſt known to the Commander.</p>
+            <p n="9">9. <hi>Files open.</hi>
+            </p>
+            <p>Being in cloſe order, the word is, files open (not naming to whe<g ref="char:EOLhyphen"/>ther hand) and is thus to be done, the middle leaders preſs upon their wingers, firſt taking the diſtance commanded, having then opened both wayes, the reſt of the Company on both wings take their diſtance from them.</p>
+            <p n="10">10. <hi>Files open to the right.</hi>
+            </p>
+            <p>The left is not to move but ſtandeth faſt, the next to the left firſt taketh the diſtance, preſſing upon the right, untill the diſtance com<g ref="char:EOLhyphen"/>manded
+<pb n="7" facs="tcp:57522:4"/>be obtained, the reſt of the files do, the like preſſing upon their right, ſtill opening by the right, untill they have all done it.</p>
+            <p n="11">11. <hi>Files open to the left,</hi>
+            </p>
+            <p>The right ſtandeth faſt, the reſt open to the left, ſtill preſſing upon their left, untill they are all in diſtance commanded.</p>
+            <p>This word of command is ever given to that hand where there is moſt ground, or fitteſt ground for conveniency.</p>
+            <p n="12">12. <hi>Ranks cloſe from the Front to the Reare.</hi>
+            </p>
+            <p>After this manner, the reare (or laſt rank) moveth not but ſtandeth faſt, the reſt of the ranks fall back to the reare.</p>
+            <p n="13">13. <hi>Ranks cloſe from the Reare to the Front.</hi>
+            </p>
+            <p>To do this, the firſt rank moveth not, but ſtandeth faſt, all the reſt of the ranks cloſe up, taking their diſtance commanded, rank after rank, from the Front, (or firſt rank) the ſecond rank to the Front be<g ref="char:EOLhyphen"/>ginning firſt, the reſt conſequently one after another, till all have done it.</p>
+            <p n="14">14. <hi>Ranks open from the Front to the Reare.</hi>
+            </p>
+            <p>The firſt rank moveth not, the reſt of the ranks fall back, till they have gained the ground to the diſtance commanded, then ſtand, the ſe<g ref="char:EOLhyphen"/>cond rank taketh the diſtance firſt, the reſt in like manner one from ano<g ref="char:EOLhyphen"/>ther, untill they have all effected it.</p>
+            <p n="15">15. <hi>Ranks open from the Reare to the Front.</hi>
+            </p>
+            <p>Which is thus done, all the body advanceth foreward, the laſt rank only ſtandeth faſt, the ſecond to the laſt taketh the diſtance firſt, then the reſt advancing foreward till they have done it.</p>
+            <p n="16">16. <hi>Files and ranks cloſe.</hi>
+            </p>
+            <p>The whole body being at open order, the word is files and ranks cloſe, to do the which your middle leaders of files cloſe firſt, the reſt of the files cloſe to them, the ranks cloſe all up to the Front, or the firſt rank to ſuch diſtance as is commanded.</p>
+            <p n="17">17. <hi>Files and Ranks open.</hi>
+            </p>
+            <p>The whole body being cloſe in rank and file, the word is, files and ranks open after this mannet: the middle leaders of files open, and take the diſt<g ref="char:EOLhyphen"/>ance firſt, the reſt of the files on either wing from them, the ranks fal back, the ſecond to the front taketh the diſtance firſt, the reſt in like manner
+<pb n="8" facs="tcp:57522:5"/>from the front to the reare backwards.</p>
+            <p n="18">18. <hi>Files countermarch and maintain ground.</hi>
+            </p>
+            <p>To countermarch and maintain ground, the leaders of every file, hav<g ref="char:EOLhyphen"/>ing turned to the hand directed (which is ſpecially to be obſerved) paſs thorow the company, their followers match up to the leaders ground, making the ſame good, then turn and paſs thorow the company after their leaders, till they have all done the ſame.</p>
+            <p n="19">19. <hi>Countermarch and loſe ground.</hi>
+            </p>
+            <p>To countermarch and loſe ground, the leaders of every file, turn to the hand directed, paſſing thorow the company, the followers move not till their leaders are paſſed by them, then they turn and paſs after their leaders, the ranks do the ſame one after another, not moving till their leaders are paſſed by them, then they turn in the ſame ground.</p>
+            <p>By countermatch the reare may become the front in the ſame ground that the front ſtood in, having brought them up, and face about.</p>
+            <p>Note.</p>
+            <p>
+               <hi>The files muſt be in their open or<g ref="char:EOLhyphen"/>der when they countermarch.</hi>
+            </p>
+            <p n="20">20. <hi>Ranks countermarch from the right to the left.</hi>
+            </p>
+            <p>The right hand man paſſeth between the firſt and ſecond rank, all the reſt of the ſame rank follow, the right hand man of the ſecond rank, paſſeth between the ſecond and third ranks, paſſing to the left wing, the reſt of the rank follow him, all the reſt of the ranks do the like, bring<g ref="char:EOLhyphen"/>ing the right to the left.</p>
+            <p n="21">21. <hi>Ranks countermarch from the left to the right.</hi>
+            </p>
+            <p>The left hand man of every rank turneth firſt, paſſing to the right, all the rank followeth him, the reſt of the ranks do the like, ſo bring<g ref="char:EOLhyphen"/>ing the left wing to the right.</p>
+            <p>This is done upon ſome politick reſpect of the Commander to change the wing, doubting the courage of the one by the other, or otherwayes beſt known to the Commander.</p>
+            <p n="22">22. <hi>Files rank,</hi> 3.5.7. <hi>or</hi> 9.</p>
+            <p>The right hand firſt executes the ſame, advancing foreward, and fall in rank to ſuch number as ſhall bee joyned, the next doth the like, advanc<g ref="char:EOLhyphen"/>ing foreward fall in ranke after the former file, the reſt of the files
+<pb n="9" facs="tcp:57522:5"/>keep the ſame form and order, untill they are all ranked.</p>
+            <p n="23">23. <hi>Files rank</hi> 3.5. <hi>or</hi> 7.</p>
+            <p>The left file firſt advanceth, falling in rank, the reſt of the files obſerve the like form, till the words of command be fully executed.</p>
+            <p n="24">24. <hi>Ranks rank</hi> 4.6. <hi>or</hi> 8.</p>
+            <p>The firſt rank executeth the ſame beginning at the right hand man, the firſt rank having ended, the right hand man of the ſecond rank be<g ref="char:EOLhyphen"/>ginneth, the reſt of the ranks do the like, till all have done it.</p>
+            <p n="25">25. <hi>Ranks rank</hi> 2.4. <hi>or</hi> 6.</p>
+            <p>The left hand man firſt beginneth here, the reſt of the ranks joyn with him, making ſo many in rank as ſhall be commanded, every rank paſſing up till they have all done it.</p>
+            <p n="26">26. <hi>Ranks file to the right.</hi>
+            </p>
+            <p>The right hand man of every rank ſtirreth not, but the next to the right hand man falleth behind his right hand man: the reſt of the ranks follow: all the ranks do the ſame, falling behind their right hand man, making one file of the whole company.</p>
+            <p n="27">27. <hi>Ranks file to the left.</hi>
+            </p>
+            <p>Every left hand man ſtands faſt, the reſt fall behind one another to the left hand, and ſo are converted into one file.</p>
+            <p>
+               <hi>The uſe.</hi>
+            </p>
+            <p>Thus you give a ſtrong charge upon the wing by facing to any hand: this ſerveth alſo for a narrow paſſage, to do this, let the ranks be in open order, and the files in cloſe order.</p>
+            <p n="28">28. <hi>Ranks turn to the right.</hi>
+            </p>
+            <p>The right hand man turneth in the ſame ground he ſtands, not mov<g ref="char:EOLhyphen"/>ing forth of the ſame: the reſt of the ſame rank turneth all together and become all above him, the left hand man being uppermoſt, all the ranks do this.</p>
+            <p n="29">29. <hi>Ranks turn to the left.</hi>
+            </p>
+            <p>The left hand man turneth in the ſame ground he ſtands in, the reſt become all above him, the right hand man being uppermoſt, all the ranks do this.</p>
+            <p>
+               <hi>The uſe.</hi>
+            </p>
+            <p>By this you may give a charge by either Wing very eaſily.</p>
+            <p>
+               <hi>Note.</hi>
+            </p>
+            <p>To perform this eaſily and ſhortly, let the Files be in their cloſe or<g ref="char:EOLhyphen"/>der, and the Ranks in ſuch open order as ſhall be requiſit according to
+<pb n="10" facs="tcp:57522:6"/>the number of men in Rank.</p>
+            <p n="30">30 <hi>Ranks and Files turn to the right, the great turn.</hi>
+            </p>
+            <p>This word of command is ſpoken to the whole body, know that the right hand man moveth not but a little, and ſlowly, the left wing ſome<g ref="char:EOLhyphen"/>what faſter, but all the whole body together, till ſuch time as the left wing be brought about, and then halt, their faces being all one way.</p>
+            <p n="31">31. <hi>The great turn to the left.</hi>
+            </p>
+            <p>Then the left hand man moveth but little and ſlowly, all the reſt of the body turn together, the right wing being brought to the left.</p>
+            <p n="32">32 <hi>The great turn right about to the reare.</hi>
+            </p>
+            <p>The right hand man moveth but little and ſlowly, as it is ſaid before, untill his face be at the reare, then ſtandeth.</p>
+            <p n="33">33. <hi>The great turn left a<g ref="char:EOLhyphen"/>bout to the reare.</hi>
+            </p>
+            <p>The like doth the left hand man as the right did before, untill all be turned.</p>
+            <p>
+               <hi>The uſe.</hi>
+            </p>
+            <p>Thus the Front is brought to either of the Wings, or to the Reare, being ſtrongeſt and beſt Armed.</p>
+            <p>
+               <hi>Note.</hi>
+            </p>
+            <p>For turning of this great turn, the whole body muſt be at their cloſe order, both in ranks and files.</p>
+            <p n="34">34. <hi>Reare diviſion, half files, ſixt rank, or middle men double the front to the right.</hi>
+            </p>
+            <p>Theſe four words of command, tend all to one purpoſe.</p>
+            <p>Therefore I ſay, reare diviſion double the front to the right, the Leaders of this diviſion are according to the deepneſs, the juſt half of the number, and they paſs up every man of the rank by the right hand of his Leader, untill they have all done, and then ſtand in the Front or firſt rank, the next rank followeth and ſtandeth in the ſecond rank, and ſo the reſt, till all have done it.</p>
+            <p n="35">35. <hi>Reare diviſion double the Front to the left.</hi>
+            </p>
+            <p>The Leaders of this diviſion or firſt rank of it, paſſeth up upon the left hand of their Leaders, unto the front or firſt rank of the front, and
+<pb n="11" facs="tcp:57522:6"/>ſo conſequently all the reſt, untill all be doubled.</p>
+            <p>
+               <hi>The Uſe.</hi>
+            </p>
+            <p>There is a ſpeciall uſe of this motion, for by this the ſame order in diſtance of ranks is ſtill obſerved, which cannot be in doubling of ranks.</p>
+            <p>
+               <hi>The ſecond Uſe.</hi>
+            </p>
+            <p>Again, they bring ſufficient men into the Front and Reare.</p>
+            <p>
+               <hi>The third uſe.</hi>
+            </p>
+            <p>Thirdly, it maketh the Company to ſhow fair upon a March thorow a City, or place of note, for faces to any hand being thus doubled and then March, and you ſhall be bravely winged.</p>
+            <p n="36">36. <hi>Reare diviſion double the front to the right and left by diviſion.</hi>
+            </p>
+            <p>The reare diviſion divide themſelves, the one half of them face to the right hand, the other half face to the left hand, then march out both to the wing of the Company, then face again to the right and left, then march up to the Front; and ſtand there.</p>
+            <p>
+               <hi>The Uſe.</hi>
+            </p>
+            <p>Thus the front is doubled on either wing, and the ſame diſtance be<g ref="char:EOLhyphen"/>tween files and ranks ſtill obſerved.</p>
+            <p n="37">37. <hi>Reare diviſion double the front to the right Enteare.</hi>
+            </p>
+            <p>The reare diviſion face to the right hand altogether, then march forth, then face to the left hand and march up to the Front, joyning rank by rank and there ſtand.</p>
+            <p n="38">38. <hi>Reare diviſion double the Front to the left Enteare.</hi>
+            </p>
+            <p>The reare diviſion face to the left and then paſs out, then face to the right and march up to the Front, joyning rank by rank to the wing and ſtand.</p>
+            <p>
+               <hi>The Uſe.</hi>
+            </p>
+            <p>Thus the Front is enlarged by ſuch wing as the Commander thinks fit, and ſhall be moſt uſefull.</p>
+            <p n="39">39. <hi>Bringers up double the Front to the right.</hi>
+            </p>
+            <p>The laſt rank (as formerly is ſhown) are Bringers up, who paſs tho<g ref="char:EOLhyphen"/>row the body by the right hand to the front, and there ſtand the ſe<g ref="char:EOLhyphen"/>cond to the reare, follow the Bringers up, and ſtand in the ſecond rank
+<pb n="12" facs="tcp:57522:7"/>to the Front, and ſo they reſt till they have all done it.</p>
+            <p n="40">40. <hi>Bringers up double the Front to the left.</hi>
+            </p>
+            <p>The laſt rank paſſeth up by their leaders left hand to the firſt rank and there ſtand, the ſecond rank to the reare follow, and ſtand in the ſecond rank to the Front, all the ranks do the like untill they have all done it.</p>
+            <p>
+               <hi>The Uſe.</hi>
+            </p>
+            <p>This is another manner of doubling the Front, and not the worſt: for by this, there is ſufficient men brought to the Front, to the ſtreng<g ref="char:EOLhyphen"/>thening of the ſame.</p>
+            <p>By this word of Command, you may alter the Front, and bring the reare to the front, by cauſing the reare or laſt rank which are bring<g ref="char:EOLhyphen"/>ers up to paſs thorow the Company, the reſt of the ranks following them.</p>
+            <p n="41">41. <hi>Ranks file by inverſion.</hi>
+            </p>
+            <p>After this manner the whole body ſtanding in open order, eſpeciall in ranks, one half of the ranks fall into the right file, the other half into the left hand file, becoming two files only, wherein you muſt note that the two uttermoſt files, which are called the right and left hand files, they ſtand faſt, the reſt of the files invert to them.</p>
+            <p>
+               <hi>The Uſe.</hi>
+            </p>
+            <p>This ſerves for the avoiding of Cannon-Shot upon the main body, or for a guard for ſome great Commander to paſs thorow, it is uſed alſo at the lodging of the Handſign.</p>
+            <p n="42">42. <hi>To your firſt order, or as you were.</hi>
+            </p>
+            <p>Theſe words are, words which bring the Company to their firſt Sta<g ref="char:EOLhyphen"/>tion or Order: after every motion foreſaid we ſay, either to your firſt order, or elſe as you were, which tends both to one uſe.</p>
+            <p>But becauſe I uſe this firſt word in my own practiſe, <hi>I</hi> would wiſh all thoſe that uſeth this book to follow it, ſo that there be no diverſity.</p>
+            <p>
+               <hi>To your firſt order.</hi>
+            </p>
+            <p>This word of Command is often uſed to perfect the body after dou<g ref="char:EOLhyphen"/>bling of ranks or files, when the reare diviſion hath doubled the Front, or Bringers up have doubled the Front, after ranks turning the great turn, ranks fileing either by converſion or inverſion, and at other times to bring them to their firſt form.</p>
+            <p>
+               <hi>The Uſe.</hi>
+            </p>
+            <p>The uſe of this is ſo neceſſary, that when the Company cannot un<g ref="char:EOLhyphen"/>derſtand
+<pb n="13" facs="tcp:57522:7"/>by any other word of Command, they can more eaſily fall to their firſt order.</p>
+            <p>There be divers other words of Command generally to be obſerved by the whole Company in time of ſervice, or upon any ſuddain aſſault to cauſe face to any hand, or charge to any hand.</p>
+            <p>
+               <table>
+                  <head>The company ſtanding in battell orderly, both in ranks and files, and true diſtance in both, the words of exerciſing, are theſe, <hi>viz.</hi>
+                  </head>
+                  <row>
+                     <cell>
+                        <hi>Faces to the right.</hi>
+                     </cell>
+                     <cell>
+                        <hi>To your first order.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Faces to the left.</hi>
+                     </cell>
+                     <cell>
+                        <hi>To your first order.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Faces right about to the Reare.</hi>
+                     </cell>
+                     <cell>
+                        <hi>To your firſt order.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Faces left about to the Reare.</hi>
+                     </cell>
+                     <cell>
+                        <hi>To your firſt order.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>PRESENTING.</head>
+                  <row>
+                     <cell>
+                        <hi>Preſent to the right.</hi>
+                     </cell>
+                     <cell>
+                        <hi>To your first order.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Preſent to the left.</hi>
+                     </cell>
+                     <cell>
+                        <hi>To your firſt order.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Preſent right about to the reare.</hi>
+                     </cell>
+                     <cell>
+                        <hi>To your first order.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Preſent left about to the reare.</hi>
+                     </cell>
+                     <cell>
+                        <hi>To your first order.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Faces to the right and left. by diviſion.</hi>
+                     </cell>
+                     <cell>
+                        <hi>To your firſt order.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Faces to the front and reare. by diviſion.</hi>
+                     </cell>
+                     <cell>
+                        <hi>To your firſt order.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>PRESENTING.</head>
+                  <row>
+                     <cell>
+                        <hi>Preſent to the right and left by diviſion.</hi>
+                     </cell>
+                     <cell>
+                        <hi>To your firſt order.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Preſent to the front and reare by diviſion.</hi>
+                     </cell>
+                     <cell>
+                        <hi>To your first order.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>There is divers ſorts of Exerciſing of Muſquetiers by themſelves apart, which cannot well be ſet down but in action.</p>
+            <p>The firſt is to winn ground upon the Enemy.</p>
+            <p>The ſecond is to loſe ground, or making a Retreat, and yet offend the Enemy.</p>
+            <pb n="14" facs="tcp:57522:8"/>
+            <p>The third is in Marching by the Enemy, and diſchargeing upon them by Files as they March.</p>
+            <p>The fourth ſort is by dividing the front and reare by diviſions, ſix foot diſtance, and marching away by the Enemy, and diſcharging up<g ref="char:EOLhyphen"/>on them half Files, the firſt half File marching through the diviſion from the right to the left: the ſecond half File diſcharging upon the Enemy, and falling by the Reare or laſt Rank, unto the left half File.</p>
+            <p>The fift Sort is by dividing the right and left diviſion ſix foot diſtance one from another, the firſt half Ranks diſcharging upon the Enemy, and falling off, from the right hand to the Reare, the one half rank falleth off by the right diviſion to the Reare, the left diviſion falleth down through between the diviſions upon the right hand unto the reare.</p>
+            <p>For brevities ſake, I will omit moſt kinds of frams and motions, and alſo becauſe many of them are hindrances to the young Souldiers mind, I will only preſent you with ſome few which you ſhall find at the end of the Book.</p>
+            <p>
+               <hi>We ſhall now diſcourſe of the Heads, and Officers in an Army. The Generall.</hi>
+            </p>
+            <p>The higheſt Office of all, is that of a General, who as he is above the reſt in Authority and Power, ſo ought he not only to know perfectly the Duties of every Officer; but alſo to excell them all in Religion, Wiſdom, Experience, Pollicy, Gravety, Secrecy, Councel, Modeſty, Temperance, Vallor, Magnanimity, Vigelancy, rare Conſtance, Libe<g ref="char:EOLhyphen"/>rality, and Reſolution, with all other good parts infident to a perfect Man of War, and how much all theſe good parts, and many more ought to be in this Perſonage elected, to this high and carefull Dignity, you may eaſily conceive and gather, becauſe he is ſet over the reſt, to the end that he being their Chieftain and Head, may not only know how to govern them both in actions, but alſo in his virtuous Life and cariage, be a Pattern, Light and Lanthorn, unto the whole number of the Companies, to imatate; for it is an old Proverb: Like Maſter, like Man, like General, like Officers and followers: for commonly a wiſe, valiant, and virtuous Generall, will chooſe wiſe valient and vir<g ref="char:EOLhyphen"/>tuous Captains and Officers: good and virtuous Captains will as neer as they can, chooſe good, honeſt, ſober, and virtuous Officers under them, entertain their Souldiers with good and fair ſpeeches to Command with, all alurements to bring them to the due form of Martial Diſcipline.</p>
+            <pb n="15" facs="tcp:57522:8"/>
+            <p>
+               <hi>The Crowner.</hi>
+            </p>
+            <p>The Crowners place and Office, is to be Commander over the Cap<g ref="char:EOLhyphen"/>tains, and all other inferior Officers of his Regiment, having Juriſ<g ref="char:EOLhyphen"/>diction and Dominion over them all, whereby may be inferred and ga<g ref="char:EOLhyphen"/>thered, the parts and qualities which ought to be in him, and the great skill and experience in War, as one who ought to exceed them all, for to know how to Command, Rule, and Govern them with Prudence; and Vallour; and for as much as in many occurants and occaſions, grow<g ref="char:EOLhyphen"/>ing and preſented in War, he ſhould know to perform the parts and Office of a Generall, being alone with the Companies of his own Regi<g ref="char:EOLhyphen"/>ment, as when his Generall Commands him to the Battery or Seige of Port or City, or to defend any Fort or Town, or to War in any open Campania, to give Battle to the Enemy, to make Incurſions, to retire and withdraw Skirmiſhers, to frame Briges over Rivers, to fortify himſelf in Camp, to conduct Artillery, and many other peices of ſervice to be performed in him, he is greatly to reſpect and honour his Generall, Obeying and Performing his commands and Orders, with great care and diligence, as he would be Obayed himſelf, and Reverenced by his Captains and other Officers of his Regiment.</p>
+            <p>
+               <hi>The Sergeant Major.</hi>
+            </p>
+            <p>His Office is to be the generall Miniſter or Officer of a whole Re<g ref="char:EOLhyphen"/>giment of Sundry Companies, and ſuper intendant of all the Serjeants of the ſame, by whoſe hand and Induſtry, the Crowner doth give the orders convenient to the due government of his Regiment, as in March<g ref="char:EOLhyphen"/>ing, Incamping, Inbattalleing, and in ſuch other matters concerning hereunto, whereby may be gathered the parts, the qualities, the vallour, the great skill, experience, and great diligence which ought to be in him, who is choſen to this degree of Office, being of ſuch importance: the Serjeant Majors Office is of much higher degree then any ordinary Captain, for every Captain do receive his directions from the Serjent Major, and the Serjeant Major from the Crowner or General, if he be in place: the ordinary place where the Crowner Marcheth, is in the Van-Guard, and ſo the Serjant Major being his Officer, by whom he ſend<g ref="char:EOLhyphen"/>eth his Commands unto the Captains, Lievtenants, Handſigns, and Serjeants, and other Officers, ought alwaies to be neer unto his Perſon, for the Serjant Major is guide of the Battail.</p>
+            <p>
+               <hi>A Captain.</hi>
+            </p>
+            <p>A Captain ſhould conſider that he hath the charge of mens lives com<g ref="char:EOLhyphen"/>mited
+<pb n="16" facs="tcp:57522:9"/>to his hands, over the which he ſhould watch, leaſt any of them be loſt under his Conduct, either by raſhneſs or want of knowledge, which ſhould be more eaſily performed, if skilfull and ſufficient men were choſen to bare Rule, and ſuch as either had paſſed, or at leaſt did underſtand the degrees of all the inferior Officers, whereby he may be able to diſcharge a place of ſuch importance, that he may preſently re<g ref="char:EOLhyphen"/>dreſs any thing amiſs, and give Inſtructions, and Orders upon every new accident either in Marching, Encamping, or Fighting, what the ſaid Officers have to do, for no man is able to teach that which he hath not himſelf before learned, for if he have not Experience [by his Ignorance] a whole Company may be overthrown, he muſt diligently uſe his Souldiers to the often uſing of their Arms, which ſhall be more profitable unto them, then the aſſiſtance of the Phyſitians, for dayly practiſe and exerciſe, makes them both perfect and healthfull, and at laſt Victorious in the Feilds, in the time of Battail.</p>
+            <p>
+               <hi>Leivetenant.</hi>
+            </p>
+            <p>He that is elected unto this Office, ought to be a man of great Ex<g ref="char:EOLhyphen"/>perience, Fidelity, and Valour, who in the abſence of his Captain carrieth his Place, Charge, and Command, unto whom the Souldiers and under Officers are to Obey for the time, as unto the Captain him<g ref="char:EOLhyphen"/>ſelf.</p>
+            <p>His place of March, his Captain being preſent, is in the reare of the Company, but in Retiting or Marching out of the Field, he is to March in the Front, and the Captain in the Reare.</p>
+            <p>
+               <hi>The Handſign or Enſign.</hi>
+            </p>
+            <p>The Handſign, is the foundation of the Company, wherein conſiſt<g ref="char:EOLhyphen"/>eth the Honor and Reputation of the Captain and Souldiers, he ought not only to be a good Souldier, Bold and Valient, but as neer as may be the Captaines equal, in Vallour, Diſcretion, and Counſel.</p>
+            <p>His place of March is upon the head of the Pikes, the ſame place he muſt obſerve in ſet Battails, but rather betwixt the 3. and 4. Ranks.</p>
+            <p>
+               <hi>The Sergeant.</hi>
+            </p>
+            <p>In this Officer, conſiſteth the principall partes of the obſervation of Military Diſcipline, and for that the execution of the ſuperior Officers Orders and Commands, do concern his charge and duty, it Import<g ref="char:EOLhyphen"/>eth that he be a skilfull and valient Souldier, and well Experienced in Military Diſcipline, yea of ſo great Importance, that more rollerable it were for all the Officers of the Company [were it the Captain him<g ref="char:EOLhyphen"/>ſelf]
+<pb n="17" facs="tcp:57522:9"/>to be unskilled men and of little experience, rather then the Serjeant, who of neceſſity ought to be an expert Souldiers and of great Spirit and Diligence. He is to rank the Souldiers as he ſhall think good not ſuffering them to contend or fall out among themſelves, for the Front or beſt places.</p>
+            <p>
+               <hi>The Corporall.</hi>
+            </p>
+            <p>As he is a degree above the private Souldier, ſo ought he in skill, that no man that is a Souldier, ſeeke to come to preferment in any Office in the Field, except he know himſelf fit to diſcharge the ſame, or elſe he ſhall become a laughing Stock to others, and be contemned of all men, as he juſtly deſerves, that taketh upon him more then he is able to perform.</p>
+            <p>I might have written more at large of every Officer, but for brevities ſake, I have but only touched every one a part, ſo wiſhing all to take this is good part, not ſet forth for the well Experimented Souldier, but for ſuch as yet have not taſted thereof.</p>
+            <p>
+               <hi>Good Admonitions for a Souldier.</hi>
+            </p>
+            <p>Having ſaid ſomewhat concerning the conditions and quallities which are required in every ſeverall Officer of a private Company. Now let us ſee what manner of men are worthy the name of Souldiers.</p>
+            <p>Firſt, the Souldier of all men, ought to ſet the fear of God before his Eyes, to have a clear Conſcience, and to be of honeſt Converſation, leſt in running upon the Pike, he fall into Hell Fire.</p>
+            <p>Secondly, he that loveth Right and Juſtice, is fit to be the defender of the ſame.</p>
+            <p>Thirdly, he that pittyeth the Poor and Afflicted, is a meet man to ſucker his Countrey, and Town, againſt the violence of Oppreſſors.</p>
+            <p>Fourthly, he that tendereth the Widdow and Fatherleſs, he that delighteth to ſee Vertue flouriſh in his Countrey, Honor advanced, Faith and Equity to abide in every Fellowſhip.</p>
+            <p>Fiftly, he that hateth Covetouſneſs, Theft, Extortion, Murther, Fornication, Idleneſs, and Drunkenneſs, theſe and ſuch like men, are fit to be, and bare the name of Souldiers, or Martialiſts.</p>
+            <p>For the firſt foundation and uſe of Armes, was erected of neceſſity, to reſtrain and repreſs the diſorders of Lude and Wicked men, and to ſettle and eſtabliſh Peace and Juſtice upon Earth. So then as the Armed Hoaſt is the remedy to chaſtiſe and repreſs the offences of others. It is therefore convenient that the ſame Hoaſt be free from the like
+<pb n="18" facs="tcp:57522:10"/>offences, and every Vice in a Souldier ought to be ſtrongly Bridled and Punniſhed with extremity.</p>
+            <p>Becauſe I am of opinion, that there be many who will be deſirous to know the manner, how to draw up Companies, and placing them in Battaile rank, this being a moſt difficile and pleaſant peice of all the Exerciſe, I have now for their contentment and ſatisfaction, ſet down in a Table under their view, divers ſorts and faſhions of this kind, out of the which they may be able eaſily by their own Induſtry, according to the occurrances to frame other formes, as the number of the Com<g ref="char:EOLhyphen"/>panies and the occaſions that they ſhall find, ſhall permit.</p>
+            <figure>
+               <figDesc>military diagram</figDesc>
+               <head>A Company preſenting to all quarters, being <hi>200.100.</hi> Pikes, <hi>100</hi> Muſquetiers.</head>
+            </figure>
+            <pb n="19" facs="tcp:57522:10"/>
+            <figure>
+               <figDesc>military diagram</figDesc>
+               <head>The Company brought up in bat<g ref="char:EOLhyphen"/>tell, for the exerciſing.</head>
+            </figure>
+            <pb n="20" facs="tcp:57522:11"/>
+            <figure>
+               <figDesc>military diagram</figDesc>
+            </figure>
+            <figure>
+               <figDesc>military diagram</figDesc>
+               <head>A Company drawn up with the Pikes upon the right hand. <hi>200</hi> men.</head>
+            </figure>
+            <pb n="21" facs="tcp:57522:11"/>
+            <figure>
+               <head>The order. how a Com<g ref="char:EOLhyphen"/>pany ſhould march of <hi>200</hi> men, <hi>100</hi> Pikes, and <hi>100</hi> Muſquets.</head>
+               <figDesc>military diagram</figDesc>
+            </figure>
+            <pb n="22" facs="tcp:57522:12"/>
+            <figure>
+               <figDesc>military diagram</figDesc>
+               <head>A Company drawn up and win<g ref="char:EOLhyphen"/>ged upon both the wings with Muſquetiers. <hi>200</hi> men.</head>
+            </figure>
+            <figure>
+               <figDesc>military diagram</figDesc>
+               <head>This Company having their Muſ<g ref="char:EOLhyphen"/>quetiers upon, the left wing, hath now doubled the right diviſion of Pikes <hi>200</hi> men.</head>
+            </figure>
+            <pb n="23" facs="tcp:57522:12"/>
+            <figure>
+               <figDesc>military diagram</figDesc>
+               <head>A Company drawn up with the Muſque<g ref="char:EOLhyphen"/>tiers in the front.</head>
+            </figure>
+            <figure>
+               <figDesc>military diagram</figDesc>
+               <head>Hear the reare diviſion of Pikes, hath doubled the front diviſion of Muſ<g ref="char:EOLhyphen"/>quetiers to the right hand.</head>
+            </figure>
+            <pb facs="tcp:57522:13"/>
+            <pb facs="tcp:57522:13"/>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a bandolier and a gun or musket</figDesc>
+               <head>1 Put on yo<hi rend="sup">r</hi>. Bandeliers.</head>
+               <p>Sould by Iohn Overton at the white horſe withouts New<g ref="char:EOLunhyphen"/>gate</p>
+               <p>Take up the Bandeliers in the right hand hold them in the hollow betweene the thumb and for finger, then clearing yo<hi rend="sup">r</hi> boxes from tan<g ref="char:EOLhyphen"/>gling with yo<hi rend="sup">r</hi> left hand, put yo<hi rend="sup">r</hi> elbow throu<g ref="char:EOLunhyphen"/>gh the bandeloir and bring yo<hi rend="sup">r</hi> right hand ouer yo<hi rend="sup">r</hi>. head, takeing your hat in the left and leaue the bandeleir on yo<hi rend="sup">r</hi> left sholder.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>2 Take vp your Rest <g ref="char:cmbAbbrStroke">̄</g>
+               </head>
+               <p>Take your Rest in the Right hand at the foote and then take it in the left about the middle then with the right hand take it at the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and put your left hand through the string and hold the Rest with the left hand</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>3 Take up you<hi rend="sup">r</hi> Match <g ref="char:cmbAbbrStroke">̄</g>
+               </head>
+               <p>Take up the Match at the middle with your thumb and forefinger of the left hand, then with your thumb and second finger of the Right hand place one end of the match be<g ref="char:EOLunhyphen"/>tweene the greate and Ring finger and the o<g ref="char:EOLunhyphen"/>ther and betweene the Ring and little finger of the left hand and So let the middle hand downe.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>4 Handle your Musket <g ref="char:cmbAbbrStroke">̄</g>
+               </head>
+               <p>Standing at the But end of yo<hi rend="sup">r</hi> Muſket w<hi rend="sup">th</hi> yo<hi rend="sup">r</hi> right foote, the left ſomwhat aduanced and the knee bent) w<hi rend="sup">ch</hi> is the generall proper ſtand of a Muſket <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ue a large ſtep with yo<hi rend="sup">r</hi> right legge their stooping downe yet bearing up yo<hi rend="sup">r</hi>. head, with yo<hi rend="sup">r</hi> right hand gripe the Musket, and ſo raising up yo<hi rend="sup">r</hi> body fall back <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+            </figure>
+            <pb facs="tcp:57522:14"/>
+            <pb facs="tcp:57522:14"/>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>5 Order yo<hi rend="sup">r</hi> Musket <g ref="char:cmbAbbrStroke">̄</g>
+               </head>
+               <p>Being come to your first ſtand hold yo<hi rend="sup">r</hi> Musket barrellm yo<hi rend="sup">r</hi> hand about the height of your shoulder with the But end on the ground, In your left hand hold the Rest a little below the forke, the Pike end on the ground</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>6 Giue your Rest to your Musket <g ref="char:cmbAbbrStroke">̄</g>
+               </head>
+               <p>Sinke downe your right hand not bowing yo<hi rend="sup">r</hi> bodie, then gripe your musket and lift it up the bring about the left hand with the rest and ioyne it to your musket on the out ſide, holding yo<hi rend="sup">r</hi> thumb hard againſt the forke of the Rest and ſo carry both muſket and Rest in the left hand onely </p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>7 Open your Pann</head>
+               <p>In the ioying of yo<hi rend="sup">r</hi>. muſket and Rest toge<g ref="char:EOLhyphen"/>ther, fall back with your right leg to your-proper stand, then hold the thumb of the Right hand be hand the ſeutchian of the Pan, and with yo<hi rend="sup">r</hi>. two former<hi rend="sup">r</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>8 Clear yo<hi rend="sup">r</hi>. Pann </head>
+               <p>Bring up your muſket with the left hand only, towards your mouth and blowe your Pan stiflie, not stoo<g ref="char:EOLhyphen"/>ping upon anie termes, and in the meane time with yo<hi rend="sup">r</hi>. right hand take</p>
+            </figure>
+            <pb facs="tcp:57522:15"/>
+            <pb facs="tcp:57522:15"/>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>9 Prime your Panne</head>
+               <p>Hould yo<hi rend="sup">r</hi> touch box betweene the thumbe and fore finger of the right hand onely and ſo Prime as in the figure.</p>
+            </figure>
+            <figure>
+               <head>10 Shut your Panne</head>
+               <p>Lay the right thumbe ouer the barrell neere the Pan, and with your two foremost fingers ſhutt the Panne.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>11 Cast of yo<hi rend="sup">r</hi>: looſe Pouder</head>
+               <p>Hould yo<hi rend="sup">r</hi> muſket fast with the right hand at the breech, the left as before turneing the Panne downe wards y<hi rend="sup">t</hi> the looſe pouder may fall of.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>12 Blow of yo<hi rend="sup">r</hi>. looſe Powder.</head>
+               <p>Hould yo<hi rend="sup">r</hi>. musket in both hands as before, beare it vp towards your mouth, not ſtooping blow of the looſe powder.</p>
+            </figure>
+            <pb facs="tcp:57522:16"/>
+            <pb facs="tcp:57522:16"/>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>13 Cast about yo<hi rend="sup">r</hi> Musket</head>
+               <p>Hold yo<hi rend="sup">r</hi> muſket in both hands as before beare it right vp towards yo<hi rend="sup">r</hi> left ſide and w<hi rend="sup">th</hi> all ſtep forwards y<hi rend="sup">e</hi> right leg then holding the muſket only in the right hand at the breech forſake the Rest.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>14 Trayle your Reſt</head>
+               <p>Haueing forſaken yo<hi rend="sup">r</hi> rest take the Muſket into the left hand about y<hi rend="sup">e</hi> midle of y<hi rend="sup">e</hi> barrell ſo as y<hi rend="sup">e</hi> butt end touch not y<hi rend="sup">e</hi> ground trayling yo<hi rend="sup">r</hi> rest betweene yo<hi rend="sup">r</hi> muſket and yo<hi rend="sup">r</hi> bodie</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>15 Open your charge.</head>
+               <p>Take your charge in your right hand: with the thumb and forefinger thereof thruſt of the couer</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>16 Charge with Powder.</head>
+               <p>Put backe your left hand with the muſket as farre as conveniently you can, and w<hi rend="sup">th</hi> yo<hi rend="sup">r</hi> right hand turne y<hi rend="sup">e</hi> powder into the muzell of the barrell holding y<hi rend="sup">e</hi> charge betweene yo<hi rend="sup">r</hi> thumb &amp; forefinger only as in y<hi rend="sup">e</hi> figure.</p>
+            </figure>
+            <pb facs="tcp:57522:17"/>
+            <pb facs="tcp:57522:17"/>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>17 charge with Bullet <g ref="char:cmbAbbrStroke">̄</g>
+               </head>
+               <p>Take yo<hi rend="sup">r</hi>. Bullet forth of yo<hi rend="sup">r</hi> bag or out of yo<hi rend="sup">r</hi> mouth and put it into the muzell of your musket.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>18 Draw forth your ſcouring sticke <g ref="char:cmbAbbrStroke">̄</g>
+               </head>
+               <p>With yo<hi rend="sup">r</hi>. right hand (y<hi rend="sup">e</hi> palme turnd from yo<hi rend="sup">r</hi>) draw forth yo<hi rend="sup">r</hi> ſcour<g ref="char:EOLunhyphen"/>ingstick beareing yo<hi rend="sup">r</hi> bodie &amp; yo<hi rend="sup">r</hi> left hand w<hi rend="sup">th</hi> yo<hi rend="sup">r</hi> musket ſo farr back as you cann</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>19 Shorten your ſcour<g ref="char:EOLhyphen"/>ing sticke</head>
+               <p>Hauing drawne forth yo<hi rend="sup">r</hi> ſcouring sticke sett the Rammer head against yo<hi rend="sup">r</hi> brest and ſlip yo<hi rend="sup">r</hi> hand cloſe to yo<hi rend="sup">r</hi> Rammer y<hi rend="sup">t</hi> you may y<hi rend="sup">e</hi> eaſier put it into y<hi rend="sup">e</hi> muzell.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>20 Ramme Home.</head>
+               <p>Put your ſcouring sticke downe into your musket and Ramme home hard twice or thrice.</p>
+            </figure>
+            <pb facs="tcp:57522:18"/>
+            <pb facs="tcp:57522:18"/>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>21 Withdraw your ſcouring sticke</head>
+               <p>With your right hand turned draw your ſcouring stick out of yo<hi rend="sup">r</hi> musket as before.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>22 <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> sticke <g ref="char:cmbAbbrStroke">̄</g>
+               </head>
+               <p>Your scouring sticke being drawn forth of y<hi rend="sup">e</hi> barrell turne it and bring the ſcouring sticke end to yo<hi rend="sup">r</hi> brest &amp; ſo ſlip yo<hi rend="sup">r</hi> hand w<hi rend="sup">th</hi>in an hand full of the end.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>23 Returne your ſcour<g ref="char:EOLhyphen"/>ing sticke</head>
+               <p>Put the ſcouring sticke to his place from whence you had it</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>24 Recouer your Musket.</head>
+               <p>Bring forward yo<hi rend="sup">r</hi> musket w<hi rend="sup">th</hi> yo<hi rend="sup">r</hi> left hand and beare it right vp Take it into y<hi rend="sup">e</hi> right hand at y<hi rend="sup">e</hi> breech and ſo hold it in y<hi rend="sup">e</hi> right hand only.</p>
+            </figure>
+            <pb facs="tcp:57522:19"/>
+            <pb facs="tcp:57522:19"/>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>25 Poize your Musket and recouer your Rest:</head>
+               <p>Fall backe w<hi rend="sup">th</hi> yo<hi rend="sup">r</hi> right leg to your first stand hold yo<hi rend="sup">r</hi> muſket in y<hi rend="sup">e</hi> right hand at y<hi rend="sup">e</hi> breech and recouer your rest in yo<hi rend="sup">r</hi> leſt hand holding it <g ref="char:cmbAbbrStroke">̄</g> iust vnder y<hi rend="sup">e</hi> forke.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>26 Giue your Rest to your Musket.</head>
+               <p>Bring vp yo<hi rend="sup">r</hi> left hand w<hi rend="sup">th</hi> y<hi rend="sup">e</hi> rest towards yo<hi rend="sup">r</hi> right ſide neere yo<hi rend="sup">r</hi> muſket and ſo ſinke yo<hi rend="sup">r</hi> muſket &amp; hold it w<hi rend="sup">th</hi> y<hi rend="sup">e</hi> rest in y<hi rend="sup">e</hi> left hand only, the rest being one y<hi rend="sup">e</hi> out ſide of y<hi rend="sup">e</hi> muſket.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>27 Draw forth yo<hi rend="sup">r</hi> Match <g ref="char:cmbAbbrStroke">̄</g>
+               </head>
+               <p>Take yo<hi rend="sup">r</hi> match from betweene yo<hi rend="sup">r</hi> little finger w<hi rend="sup">th</hi> y<hi rend="sup">e</hi>. thumb and y<hi rend="sup">e</hi> ſecond finger of yo<hi rend="sup">r</hi> right hand being turned w<hi rend="sup">th</hi> y<hi rend="sup">e</hi> Palme from yo<hi rend="sup">u</hi>.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>28 Blow your Cole <g ref="char:cmbAbbrStroke">̄</g>
+               </head>
+               <p>Bring the right hand w<hi rend="sup">th</hi> y<hi rend="sup">e</hi> match backward and your left hand w<hi rend="sup">th</hi> y<hi rend="sup">e</hi> muſket and rest forward, turning your face ſome what backward blow yo<hi rend="sup">r</hi> match ſtiffe</p>
+            </figure>
+            <pb facs="tcp:57522:20"/>
+            <pb facs="tcp:57522:20"/>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>29 Cocke your Match.</head>
+               <p>Holding your match betweene yo<hi rend="sup">r</hi>. thumband ſecond finger bring it to the cock, and preſse it into the cocke with the thumbe </p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>30 Try yo<hi rend="sup">r</hi> Match.</head>
+               <p>Your thumb and forefinger being upon the cocke and the ſecond and third finger under the cocke, pull the cock to the Pan and with the finger either raiſeor ſinkethe match</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>31 Gard &amp; blow.</head>
+               <p>Lay the two forefingers of the right ha<g ref="char:cmbAbbrStroke">̄</g>d upon the pan, the thumb behind the ſeutchion of the pan the eaſier to lift up the muſket, and ſoe raiſing up the muſkel with both hands blow <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in the in posture.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>32 Open your Pan</head>
+               <p>with the two forefingers of the right hand open the Panne as in the 7 posture </p>
+            </figure>
+            <pb facs="tcp:57522:21"/>
+            <pb facs="tcp:57522:21"/>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>33 Preſent.</head>
+               <p>Remoue yo<g ref="char:cmbAbbrStroke">̄</g>r. right hand to the thumbe hole yo<hi rend="sup">r</hi> ſecond finger to y<hi rend="sup">e</hi> tricker — with yo<hi rend="sup">r</hi> left hand fix the forke of y<hi rend="sup">e</hi> Rest to yo<hi rend="sup">r</hi> muſket and yo<hi rend="sup">r</hi> thumb against the forke, and the pike end of the reſt on the ground.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>34 Giue Fire</head>
+               <p>lift up yo<hi rend="sup">r</hi> right elbow and place the but end of yo<hi rend="sup">r</hi> muſket within yo<hi rend="sup">r</hi> shoulder nere your breaſt, the ſmall end appear<g ref="char:EOLhyphen"/>ing a little aboue youe shoulder standing w<hi rend="sup">th</hi> y<hi rend="sup">e</hi> left leg foremost and the knee bent and the right leg standing stiffe</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>35 Diſmount yo<hi rend="sup">r</hi> Muſket</head>
+               <p>Bring your musket and rest to your right ſide and carry both in the left hand onely</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>36 <g ref="char:V">Ʋ</g>nco<hi rend="sup">c</hi>ke your Match</head>
+               <p>Take the match from the cocke w<hi rend="sup">t</hi>h the thumb and ſecond finger of yo<hi rend="sup">r</hi> right hand holding the muſket and rest in the left hand onely.</p>
+            </figure>
+            <pb facs="tcp:57522:22"/>
+            <pb facs="tcp:57522:22"/>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>37 Returne your Match.</head>
+               <p>Put the match betweene the two leſſer fingers of the left hand from whence you had it.</p>
+               <p>Note from henc forward yo<hi rend="sup">u</hi> may Prime &amp; charge as be<g ref="char:EOLhyphen"/>fore from y<hi rend="sup">e</hi> 
+                  <hi>8</hi> postur and ſo forward as in y<hi rend="sup">e</hi> 
+                  <hi>25</hi> postur</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>38 Shoulder yo<hi rend="sup">r</hi> Muſket.</head>
+               <p>Haueing yo<hi rend="sup">r</hi>. muſket poized hold yo<hi rend="sup">r</hi> rest an handfull under the forke, then bring your musket before yo<hi rend="sup">r</hi>. bodie and yo<hi rend="sup">r</hi> rest croſſouer it behinde the thumb hole, and ſo with both hands lay it gently on yo<hi rend="sup">r</hi>. shoulder haueing the rest croſs yo<hi rend="sup">r</hi> body and withall bring yo<hi rend="sup">r</hi> right leg up to yo<hi rend="sup">r</hi> left, then fall back againe with yo.<hi rend="sup">r</hi> right leg.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>39 March w<hi rend="sup">t</hi>h yo<hi rend="sup">r</hi> rest in yo<hi rend="sup">r</hi> right hand.</head>
+               <p>First take the match from the left hand betweene the fingers of the right hand, then take the string of the Rest from the left arme, and returne the match betweene the fingers of the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>40 March and w<hi rend="sup">t</hi>h your Muſket carrie yo<hi rend="sup">r</hi>. rest.</head>
+               <p>First shift the match as in the former direction, then put the string of the Rest ouer the left arme and the reſt in the hand and ſo returne the match and carry yo<hi rend="sup">r</hi> reſt as in the figure.</p>
+            </figure>
+            <pb facs="tcp:57522:23"/>
+            <pb facs="tcp:57522:23"/>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>41 <g ref="char:V">Ʋ</g>nsholder yo<hi rend="sup">r</hi>. Muſket.</head>
+               <p>Bringing up yo<hi rend="sup">r</hi> right leg to your left ſinke your muſket and carry it right up and withall turne it, that the pike end of yo<hi rend="sup">r</hi>. Rest be towards yo<hi rend="sup">r</hi> left ſide then take the Muſket at the breech with yo<hi rend="sup">r</hi> right hand and ſlip downe yo<hi rend="sup">r</hi> left with y<hi rend="sup">e</hi> reſt</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>42 Poyze your Muſket.</head>
+               <p>Hold the Muſket right up in the right hand on yo<hi rend="sup">r</hi> right ſide raiſe yo<hi rend="sup">r</hi> left hand to y<hi rend="sup">e</hi> forke of yo<hi rend="sup">r</hi> rest, and ſet yo<hi rend="sup">r</hi> thumbe against the forke as in the figure.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>43 Rest yo<hi rend="sup">r</hi> Muſket.</head>
+               <p>Bring up yo<hi rend="sup">r</hi> left hand w<hi rend="sup">th</hi> the forke of the rest to the musket, and ſo lett Musket and rest ſinke downe togather and fall backe with yo<hi rend="sup">r</hi> right legge to your proper stand.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>44 Draw out yo<hi rend="sup">r</hi>. Match.</head>
+               <p>Take the match beetweene the thumbe and the ſeacond finger of the right hand as in the XXVII posture and w<hi rend="sup">th</hi> the thumbe of your left hand hould the musket faſt on the rest.</p>
+            </figure>
+            <pb facs="tcp:57522:24"/>
+            <pb facs="tcp:57522:24"/>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>45 Blow yo<hi rend="sup">r</hi>. Match.</head>
+               <p>Beare your Musket and rest forrvard with the left hand, and your match backwand in the <g ref="char:cmbAbbrStroke">̄</g> right, and blow as in the 28 posture.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>46 Cocke yo<hi rend="sup">r</hi> Match.</head>
+               <p>Cocke your macth as in the 29<hi rend="sup">th</hi> Posture <g ref="char:cmbAbbrStroke">̄</g>
+               </p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>47 Try your Match.</head>
+               <p>Try your match as in the 30<hi rend="sup">th</hi> posture.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man, soldier, or musketeer with a gun or musket</figDesc>
+               <head>48 The sentinell Posture.</head>
+               <p>Hold the two forefingers of y<hi rend="sup">e</hi> right hand upon your pan, the thumb be: hind the ſcutchian ready upon all occaſions </p>
+            </figure>
+            <pb facs="tcp:57522:25"/>
+            <pb facs="tcp:57522:25"/>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>1 Handle yo<hi rend="sup">r</hi> Pike.</head>
+               <p>Standing at the but end of yo<hi rend="sup">r</hi> Pike fall backward with yo<hi rend="sup">r</hi> left foot, and with yo<hi rend="sup">r</hi> right hand turned, take your Pike at the But end and bring yo<hi rend="sup">r</hi> right ha<g ref="char:cmbAbbrStroke">̄</g>d up to your hip.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>2 Recouer your Pike &amp; Order.</head>
+               <p>Bring yo<hi rend="sup">r</hi> left foote beſore yo<hi rend="sup">r</hi> right, and with yo<hi rend="sup">r</hi> left hand take yo<hi rend="sup">r</hi> Pike forwards bearing the butlend downward, and remoue yo<hi rend="sup">r</hi> right hand aboue yo<hi rend="sup">r</hi> left</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>3 Order yo<hi rend="sup">r</hi> Pike.</head>
+               <p>Set the but end of yo<hi rend="sup">r</hi> Pike nere your right foote on the out ſide, holding it right up inyo<hi rend="sup">r</hi> right hand, about the height of yo<hi rend="sup">r</hi> eye, and your arme a little Bending, and yo<hi rend="sup">r</hi> right foote forward</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>4 Aduance yo<hi rend="sup">r</hi> Pike in three motions. The first Motion.</head>
+               <p>with the right hand alone bring yo<hi rend="sup">r</hi> Pike iuſt before yo<hi rend="sup">r</hi> body, bearing it directly right up, raiſing the but end from the ground, then take y<hi rend="sup">e</hi> Pike with yo<hi rend="sup">r</hi> left hand about the height your girdle </p>
+            </figure>
+            <pb facs="tcp:57522:26"/>
+            <pb facs="tcp:57522:26"/>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>5 the ſeacond Motion</head>
+               <p>Forsake the Pike with your right hand and with the left hand alone raiſe up the Pike, that the But end be about the height of yo<hi rend="sup">r</hi> thigh, then take y<hi rend="sup">e</hi> But end in yo<hi rend="sup">r</hi> right hand, without ſtooping to it.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>6 the third Motion being Aduanced</head>
+               <p>Forsake the Pike with the left hand and with yo<hi rend="sup">r</hi> right hand alone carry the Pike right up. locking the Pike betweene yo<hi rend="sup">r</hi> shoulder and arme, yo<hi rend="sup">r</hi> right hand holding the but end of the Pike about the height of yo<hi rend="sup">r</hi> hip.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>7 Order yo<hi rend="sup">r</hi> Pike in three motions. the first Motion.</head>
+               <p>Sinke your right hand a little, and with your left hand take the Pike as high as well you can reach and bring y<hi rend="sup">e</hi> Pike iuſt before yo<hi rend="sup">r</hi> Body. </p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>8 the <hi>2d</hi> Motion</head>
+               <p>Forsake the Pike with yo<hi rend="sup">r</hi> right hand, and bring down the pike in your left hand that the but end be nere unto the ground, then w<hi rend="sup">t</hi>h, yo<hi rend="sup">r</hi> right hand take y<hi rend="sup">e</hi> pike about the height of yo<hi rend="sup">r</hi> head. </p>
+            </figure>
+            <pb facs="tcp:57522:27"/>
+            <pb facs="tcp:57522:27"/>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>9 The <hi>3<hi rend="sup">d</hi>
+                  </hi> motion being ordered</head>
+               <p>Forsak y<hi rend="sup">e</hi> Pike with your left hand, and with the right hand only ſet the but end on the ground, on the outſide of yo<hi rend="sup">r</hi> right foote as in the third Posture. </p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>10 Shoulder yo<hi rend="sup">r</hi>. Pike in <hi>3</hi> motions The first Motion</head>
+               <p>Bring y<hi rend="sup">e</hi> Pike iuſt before yo<hi rend="sup">r</hi> body and raiſe the but end from y<hi rend="sup">e</hi> ground bearing it forward, then take it with yo<hi rend="sup">r</hi> left hand a little beneath yo<hi rend="sup">r</hi> right.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>11 The ſeacond Motion.</head>
+               <p>Bring forward the Pike with yo<hi rend="sup">r</hi> left hand, and take it in your right, reaching backward as farr as well you may. </p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>12 The <hi>2<hi rend="sup">d</hi>
+                  </hi> motion being Sholdred</head>
+               <p>Forſake yo<hi rend="sup">r</hi> Pike with yo<hi rend="sup">r</hi> left hand, and with the right onely lay it vpon yo<hi rend="sup">r</hi> right shoulder, bearing the but end about a foote from the ground, hold<g ref="char:EOLhyphen"/>ing yo<hi rend="sup">r</hi> thumb vnder the Pike, the better to gouern it, carrying the pike forward.</p>
+            </figure>
+            <pb facs="tcp:57522:28"/>
+            <pb facs="tcp:57522:28"/>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>13 Port yo.<hi rend="sup">r</hi> Pike in <hi>3</hi> motions. the first Motion.</head>
+               <p>Beare yo<hi rend="sup">r</hi> right hand w<hi rend="sup">t</hi>h the pike back ward as farr as well you can, w<hi rend="sup">t</hi>h yo<hi rend="sup">r</hi> left hand take y<hi rend="sup">e</hi> pike forward, &amp; w<hi rend="sup">t</hi>h. the right hand beare y<hi rend="sup">e</hi> pike op ward.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>14 The <hi>2<hi rend="sup">d</hi>
+                  </hi> Motion.</head>
+               <p>Forſaking y<hi rend="sup">e</hi> Pike w<hi rend="sup">t</hi>h the right hand east y<hi rend="sup">e</hi> poynt forward that y<hi rend="sup">e</hi> But end may conveniently be taken in y<hi rend="sup">e</hi> right hand.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>15 The <hi>3<hi rend="sup">d</hi>
+                  </hi> motion being Ported.</head>
+               <p>Take y<hi rend="sup">e</hi> But end of y<hi rend="sup">e</hi> Pike in yo<hi rend="sup">r</hi> right hand, holding it about yo<hi rend="sup">r</hi> hip, and raiſing the pike w<hi rend="sup">t</hi>h, yo<hi rend="sup">r</hi> left hand aboute y<hi rend="sup">e</hi> hight of yo breast carry y<hi rend="sup">e</hi> Pike directly before yo<hi rend="sup">u</hi> yo<hi rend="sup">r</hi> left foote forward.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>16 Charge yo<hi rend="sup">r</hi> Pike</head>
+               <p>Raiſe y<hi rend="sup">e</hi> right hand and strech it backward, yo<hi rend="sup">r</hi> left hand being at yo<hi rend="sup">r</hi> breast, yo<hi rend="sup">r</hi> left elbow against yo<hi rend="sup">r</hi> hip <g ref="char:cmbAbbrStroke">̄</g>
+               </p>
+            </figure>
+            <pb facs="tcp:57522:29"/>
+            <pb facs="tcp:57522:29"/>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>17 Advance yo<hi rend="sup">r</hi> Pike.</head>
+               <p>Beare downe the butt end of y<hi rend="sup">e</hi> Pike w<hi rend="sup">t</hi>h yo<hi rend="sup">r</hi> right hand and raiſe y<hi rend="sup">e</hi> pike with y<hi rend="sup">e</hi> left, and ſo advance as in y<hi rend="sup">e</hi> 
+                  <hi>6</hi> figure.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>18 Sholder yo<hi rend="sup">r</hi>: Pike in <hi>3</hi> Motions. The first motion.</head>
+               <p>Sinke yo<hi rend="sup">r</hi> right hand, and w<hi rend="sup">t</hi>h yo<hi rend="sup">r</hi> left take y<hi rend="sup">e</hi> pike as high as well yo<hi rend="sup">u</hi> can reach bringing the pike iuſt before yo<hi rend="sup">r</hi> body</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>19 The <hi>2d</hi> motion.</head>
+               <p>Forſake the butt end w<hi rend="sup">t</hi>h yo<hi rend="sup">r</hi> right hand bring forward yo<hi rend="sup">r</hi> Pike in the left hand, and take the pike backward in y<hi rend="sup">e</hi> right hand as farr as well you may reach.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>20 The <hi>3d</hi> motio<g ref="char:cmbAbbrStroke">̄</g> being Sholdred</head>
+               <p>Forſake y<hi rend="sup">e</hi> Pike w<hi rend="sup">t</hi>h the left hand, &amp; with the right only lay it vpon your shoulder oc: as in y<hi rend="sup">e</hi> 12 figure.</p>
+            </figure>
+            <pb facs="tcp:57522:30"/>
+            <pb facs="tcp:57522:30"/>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>21 Charge to y<hi rend="sup">e</hi> Reare in <hi>3</hi> motions. the first motion</head>
+               <p>Beare the pike w<hi rend="sup">t</hi>h yo<hi rend="sup">r</hi>. right hand backward, take it forward in yo<hi rend="sup">r</hi> left hand as far as yo<hi rend="sup">u</hi> may con<g ref="char:EOLhyphen"/>veniently reach, bearing y<hi rend="sup">e</hi> pike w<hi rend="sup">t</hi>h yo<hi rend="sup">r</hi> right hand vpward</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>22 The <hi>3.d</hi> motion.</head>
+               <p>Forſaking the Pike w<hi rend="sup">th</hi> yo<hi rend="sup">r</hi> right hand. beare it ouer yo<hi rend="sup">r</hi> head and at the ſame instant turne yo<hi rend="sup">r</hi> body to y<hi rend="sup">e</hi> left hand that yo<hi rend="sup">u</hi> may conveniently take y<hi rend="sup">e</hi> butt end of y<hi rend="sup">e</hi>: Pike in yo<hi rend="sup">r</hi> right hand. </p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>23 the <hi>3d</hi> motion being Charged.</head>
+               <p>Hauing y<hi rend="sup">e</hi> butt end of y<hi rend="sup">e</hi> Pike in yo<hi rend="sup">r</hi> right hand ſtretch yo<hi rend="sup">r</hi> right arme back ward and ſett your left hand at yo<hi rend="sup">r</hi> breast &amp;c as in y<hi rend="sup">e</hi> 16 figur</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>24 Recouer yo<hi rend="sup">r</hi> Pike and Sholder in <hi>3</hi> motions The first motion.</head>
+               <p>Slip yo<hi rend="sup">r</hi> left hand forward as farr as well yo<hi rend="sup">r</hi> may and lift y<hi rend="sup">e</hi> Pike vpwards to yo<hi rend="sup">r</hi> head &amp; w<hi rend="sup">t</hi>h the right hand beare y<hi rend="sup">e</hi> But end ſomwhat downward.</p>
+            </figure>
+            <pb facs="tcp:57522:31"/>
+            <pb facs="tcp:57522:31"/>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>25 The ſeacond motion.</head>
+               <p>Forsakeing the Butend of the Pike with yo<hi rend="sup">r</hi> right hand, beare up the Pike ouer your head with your left hand only and that inſtant turn yo<hi rend="sup">r</hi> face to y<hi rend="sup">e</hi> right hand, and be ready with yo<hi rend="sup">r</hi> right hand to take y<hi rend="sup">e</hi> Pike more Backward. </p>
+            </figure>
+            <figure>
+               <head>26 The <hi>3</hi> motion being Sholdred</head>
+               <p>Hauing the Pike in the right hand forsake it with your left and with the right hand only, lay it on your sholder, as in the <hi>12</hi> and <hi>20</hi> figurs.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>27 Order yo<hi rend="sup">r</hi> Pike</head>
+               <p>This is to be done in <hi>3</hi> motions as the con<g ref="char:EOLhyphen"/>trary is showne in f. 9.10.11. figures Beare the Pike with the right hand back<g ref="char:EOLhyphen"/>ward, with yo<hi rend="sup">r</hi> leſt take it forward bear<g ref="char:EOLhyphen"/>ing the but end downward, then ſlip down your right hand a little aboue yo<hi rend="sup">r</hi> leſtand let y<hi rend="sup">e</hi> butend on y<hi rend="sup">e</hi> ground, as in y<hi rend="sup">e</hi>: <hi>9</hi> figur.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>28 Cheeke yo<hi rend="sup">r</hi> Pike the first Motion</head>
+               <p>This is to be done by ſeuerall palm<g ref="char:EOLhyphen"/>ing poſtures, firſt with the right hand beare the butend of the Pike backward, as farr as yo<hi rend="sup">•</hi> can and ſo Contiew palming till y<hi rend="sup">•</hi> come to the head of your Pike.</p>
+            </figure>
+            <pb facs="tcp:57522:32"/>
+            <pb facs="tcp:57522:32"/>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>29 The <hi>2<hi rend="sup">d</hi>
+                  </hi> motion being Cheeked</head>
+               <p>With yo<hi rend="sup">r</hi> left hand hold the Pike a little be low the head, your right hand more backward, as farre as the cheekes or arming reach, ſet yo<hi rend="sup">r</hi> right hand upon yo<hi rend="sup">r</hi> hip, yo<hi rend="sup">r</hi> elbow ſtretcht forth and yo<hi rend="sup">r</hi> left hand more forward before yo<hi rend="sup">r</hi> breaſt.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>30 Trayle yo.<hi rend="sup">r</hi> Pike</head>
+               <p>Remoue your Right hand to your left, and in your right hand only carry your Pike, your hand Being upon your hip. </p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>31 Recouer yo<hi rend="sup">r</hi> Pike and Charge The first Palmeing motion</head>
+               <p>This to be done by ſeuerall Pal<g ref="char:EOLhyphen"/>ming poſtures backward, Bring forward your right hand as farr as well you can, and with y<hi rend="sup">e</hi> left hand gripe the pike Backward as farr as you can. </p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>32 The <hi>2<hi rend="sup">d</hi>
+                  </hi> Palming motion</head>
+               <p>Forſake the Pike with yo<hi rend="sup">r</hi>: right hand, bring forward the Pike with y<hi rend="sup">e</hi> left and take it backward with the right; and ſo continue palm<g ref="char:EOLhyphen"/>ing vntill you haue the Butend of y<hi rend="sup">e</hi> pike in your Right hand</p>
+            </figure>
+            <pb facs="tcp:57522:33"/>
+            <pb facs="tcp:57522:33"/>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>33 Charge yo.<hi rend="sup">r</hi> Pike.</head>
+               <p>Strech yo<hi rend="sup">r</hi> right arme backward w<hi rend="sup">th</hi> y<hi rend="sup">e</hi> butt end of y<hi rend="sup">e</hi> Pike in yo<hi rend="sup">r</hi> hand yo<hi rend="sup">r</hi>. left hand at yo<hi rend="sup">r</hi> breast, and yo<hi rend="sup">r</hi> elbow vpon yo<hi rend="sup">r</hi> hip &amp; as in y<hi rend="sup">e</hi> 
+                  <hi>16</hi> figure</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>34 Order at cloſe Order.</head>
+               <p>This is to be done in <hi>3</hi> motions first bearing the pike right vp before y<hi rend="sup">e</hi> body and ſo forward as from y<hi rend="sup">e</hi> Aduance in y<hi rend="sup">e</hi> 
+                  <hi>6.7. &amp; 8</hi> figures, only yo<hi rend="sup">u</hi> must obſerue to ſett y<hi rend="sup">e</hi> butt end of y<hi rend="sup">e</hi> Pike at the in ſide of y<hi rend="sup">e</hi> right foote w<hi rend="sup">th</hi> is yo<hi rend="sup">r</hi> cloſſe order.</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>35 Charg for horſe and draw yo<hi rend="sup">r</hi> ſword</head>
+               <p>The Butt end of yo<hi rend="sup">r</hi> Pike resting aga<g ref="char:EOLhyphen"/>uist yo<hi rend="sup">r</hi> right foote take it in yo<hi rend="sup">r</hi> left hand about y<hi rend="sup">e</hi> hight of yo<hi rend="sup">r</hi> girdle and ſtep forward w<hi rend="sup">t</hi>h yo<hi rend="sup">r</hi> left foote y<hi rend="sup">e</hi> knee bent lay yo<hi rend="sup">r</hi> left arme vpon yo<hi rend="sup">r</hi> knee couching down low &amp; draw yo<hi rend="sup">r</hi> ſword ouer yo<hi rend="sup">r</hi> left, arme</p>
+            </figure>
+            <figure>
+               <figDesc>engraving of a man or soldier with a pike</figDesc>
+               <head>36 Recouer yo<hi rend="sup">r</hi> Pike and put vp yo<hi rend="sup">r</hi> ſword.</head>
+               <p>Raiſe yo<hi rend="sup">r</hi> body right vp set yo<hi rend="sup">r</hi> Pike against yo<hi rend="sup">r</hi> right sholder w<hi rend="sup">th</hi>. the left hand y<hi rend="sup">e</hi> but end being still vpon y<hi rend="sup">e</hi> ground then put vp yo<hi rend="sup">r</hi> ſword:</p>
+            </figure>
+         </div>
+      </body>
+   </text>
+</TEI>
